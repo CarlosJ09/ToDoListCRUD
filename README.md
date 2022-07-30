@@ -3,8 +3,8 @@
 ## Technologies and Tools used in this project: 
 
 - React
--TypeScript
-- Node
+- TypeScript
+- Node / Express
 - MySql
 - Tailwind
 - Docker
