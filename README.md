@@ -1,6 +1,8 @@
 # ToDo List CRUD
 
-## Technologies and Tools used in this project: 
+## Fully responsive To-Do List
+
+### Technologies and Tools used in this project: 
 
 - React
 - TypeScript
@@ -8,3 +10,7 @@
 - MySql
 - Tailwind
 - Docker
+
+### Link: https://jade-cassata-476eac.netlify.app/
+
+
