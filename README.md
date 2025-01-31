@@ -11,6 +11,4 @@
 - Tailwind
 - Docker
 
-### Link: https://to-do-listcrud.netlify.app/
-
 
